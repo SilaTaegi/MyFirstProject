@@ -8,7 +8,7 @@ public class Main {
 
         for (int i = 0; i <= num1; i++){
             for (int j = num1; j > 0; j--){
-                if(i * j == num1){
+                if(i * j == num1) {
                     System.out.println(i + "*" + j);
                 }
             }
